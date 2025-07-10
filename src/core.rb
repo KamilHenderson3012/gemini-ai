@@ -5,3 +5,4 @@ A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language AP
 # drop an unused branch
 # guard against empty input
 # match the style used in the rest of the module
+# match the style used in the rest of the module
