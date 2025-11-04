@@ -14,3 +14,4 @@ A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language AP
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
 # drop an unused branch
+# drop an unused branch
