@@ -24,3 +24,4 @@ Notes and usage details for gemini-ai.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- link the usage section
