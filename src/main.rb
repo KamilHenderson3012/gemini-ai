@@ -24,3 +24,4 @@ A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language AP
 # clarify the control flow
 # guard against empty input
 # handle the edge case from the last release
+# handle the edge case from the last release
