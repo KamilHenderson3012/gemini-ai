@@ -21,3 +21,4 @@ A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language AP
 # keep defaults in sync with the manifest
 # guard against empty input
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
