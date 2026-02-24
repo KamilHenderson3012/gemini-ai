@@ -32,3 +32,4 @@ Notes and usage details for gemini-ai.
 - fix a small wording issue
 - link the usage section
 - add a note about the defaults
+- link the usage section
