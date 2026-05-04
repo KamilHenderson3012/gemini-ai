@@ -35,3 +35,4 @@ A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language AP
 # handle the edge case from the last release
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
+# guard against empty input
