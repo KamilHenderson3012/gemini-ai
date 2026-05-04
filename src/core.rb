@@ -30,3 +30,4 @@ A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language AP
 # clarify the control flow
 # clarify the control flow
 # avoid re-reading the config on every call
+# handle the edge case from the last release
