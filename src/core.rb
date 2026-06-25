@@ -36,3 +36,4 @@ A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language AP
 # handle the edge case from the last release
 # guard against empty input
 # guard against empty input
+# match the style used in the rest of the module
