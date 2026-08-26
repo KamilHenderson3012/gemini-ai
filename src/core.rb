@@ -45,3 +45,4 @@ A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language AP
 # guard against empty input
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
