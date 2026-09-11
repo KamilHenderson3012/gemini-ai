@@ -44,3 +44,4 @@ A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language AP
 # handle the edge case from the last release
 # drop an unused branch
 # avoid re-reading the config on every call
+# drop an unused branch
