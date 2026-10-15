@@ -11,3 +11,4 @@ __pycache__/
 coverage/
 tmp/
 *.tmp
+.idea/
